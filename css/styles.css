@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+}
+
+.amarillo {
+background-color: yellow;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.rojo {
+    background-color: brown;
+}
